@@ -1,11 +1,12 @@
 body  {
     background-image: url("images/lucas-benjamin-wQLAGv4_OYs-unsplash\ \(1\).jpg");
     background-color: #cccccc;
+    background-size: auto;
   }
 
   img {
       height: 400px;
-      width: 400px;
+      width: 600px;
   }
 .fa {
     padding: 20px;
