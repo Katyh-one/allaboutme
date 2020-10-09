@@ -1,0 +1,27 @@
+body {
+    background-image:url ("images\lucas-benjamin-wQLAGv4_OYs-unsplash (1).jpg");
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 70%;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa-github {
+      background: #f54295;
+      color: white;
+  }
